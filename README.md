@@ -47,6 +47,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/1603-design-parking-system) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
