@@ -31,12 +31,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0709-to-lower-case) |
@@ -69,4 +71,20 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
