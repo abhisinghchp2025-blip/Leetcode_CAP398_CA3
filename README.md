@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/1480-running-sum-of-1d-array) |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0933-number-of-recent-calls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhisinghchp2025-blip/Leetcode_CAP398_CA3/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
